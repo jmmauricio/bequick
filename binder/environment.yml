@@ -2,16 +2,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
-  - cython
-  - ipython
-  - ipyparallel
-  - ipywidgets
+  - python=3.7
   - numpy
+  - scipy
   - matplotlib
-  - mpi4py
-  - networkx
-  - pandas
-  - scikit-image
-  - scikit-learn
-  - sympy
