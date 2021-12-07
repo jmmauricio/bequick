@@ -1,6 +1,0 @@
-dependencies:
-  - appmode
-  - numpy
-  - scipy
-  - matplotlib
-
